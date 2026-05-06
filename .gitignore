@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+Pet_Supplies.txt
+proyecto_final_analisis_reseñas_local.ipynb
+resultados/2.6reseñas_limpias.csv
